@@ -2,6 +2,7 @@
 After testing his interns weekly, my mentor decided to give us our final Java test, which included classes, objects, arrays, for loops, linked lists, priority queue, and many other attributes.
 
 **Essay on the internship**
+
 “I do not think you are ready to take on what you are aspiring to do,” he professed. Hearing these words from my mentor, my heart plummeted.  
 This past summer, I participated in the 2021 High School Boeing Internship, an opportunity offered through my school. I had sent in my application to a selection committee and completed an interview. When I was eventually chosen with four other students, I was excited to see what lay ahead of me. I wanted to use the internship to learn college-level programming and to possibly even create an application that I had been planning. 
 My first meeting with my new mentor, Mr. Lee, was a rude awakening. He informed us that his rigorous program would tackle complex coding concepts. Half of us, he claimed, would leave his group before the internship had ended. My heart raced. As I listened, I could feel the hamster in my brain running as fast as it could on its wheel. At that moment, I decided that I was going to stay, no matter how challenging the program was. 
